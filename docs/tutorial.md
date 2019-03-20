@@ -466,7 +466,7 @@ the string `"Cruel"`.
 
 But it seems like a bit much to type out the entire namespace for each
 call, so let's require `hello.cruel-world` again and create an alias
-for it. Remeber that you can hit the up arrow to get back to the
+for it. Remember that you can hit the up arrow to get back to the
 original require statement and edit it.
 
 ```clojure
